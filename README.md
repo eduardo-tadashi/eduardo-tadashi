@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eduardo-tadashi
-- 👀 I’m interested in Web development
+- 👀 I’m interested in front end development
 - 🌱 I’m currently learning React native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
